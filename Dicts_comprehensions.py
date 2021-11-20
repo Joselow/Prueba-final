@@ -1,6 +1,6 @@
 def run(): #dicts comprehensions
     # my_dict = {}
-
+#Agregando un comentario ramdom desde GitHub para practicar lo dle profe Fredy xddddd ajjsasa
     # for i in range(1,101):
     #     if i % 3 != 0 :
     #         my_dict[i] = i**3  #i es la llave y i ** 3 es el valor
